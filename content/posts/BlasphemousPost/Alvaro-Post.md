@@ -4,7 +4,7 @@ date = 2024-11-29T10:55:58+01:00
 draft = false
 +++
 
-![image](https://www.bing.com/images/blob?bcid=qCvNWabDU80HNg)
+![image](posts/BlasphemousPost/Blasphemous.jpg)
 
 # Blasphemous : Un juego Español
 
