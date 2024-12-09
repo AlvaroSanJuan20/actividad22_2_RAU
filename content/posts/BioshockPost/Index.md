@@ -1,6 +1,6 @@
 ---
 title: 'BioShock : La historia submarina'
-date: 2024-11-29T10:55:58+01:00
+date: '2024-11-29T10:55:58+01:00'
 draft: false
 ---
 
@@ -27,5 +27,3 @@ Una de las frases más icónicas de *BioShock* resume su temática central: el c
 ## Un Legado Inmortal  
 
 *BioShock* recibió aclamación universal por su narrativa, diseño de niveles y estilo artístico. Su influencia ha trascendido los videojuegos, inspirando debates académicos y generando una secuela igualmente memorable: *BioShock Infinite*. A día de hoy, sigue siendo un referente en cómo contar historias profundas a través de la interactividad.
-
----

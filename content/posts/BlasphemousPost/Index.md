@@ -1,6 +1,6 @@
 ---
 title: 'Blasphemous Un juego Español'
-date: 2024-11-29T10:55:58+01:00
+date: '2024-11-29T10:55:58+01:00'
 draft: false
 ---
 
@@ -25,6 +25,3 @@ El juego destaca por su detallado arte en *pixel art*. Desde los enemigos grotes
 ## Éxito Indie
 
 Desde su lanzamiento, el juego ha recibido elogios por su diseño, narrativa y atmósfera. Tanto los jugadores como los críticos han reconocido su capacidad para mezclar elementos culturales con una jugabilidad desafiante y cautivadora.
-
----
-
