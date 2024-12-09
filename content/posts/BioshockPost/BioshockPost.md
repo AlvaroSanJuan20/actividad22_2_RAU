@@ -4,7 +4,7 @@ date = 2024-11-29T10:59:40+01:00
 draft = false
 +++
 
-![image](posts/BioshockPost/Bioshock.jpg)
+![image](./Bioshock.jpg)
 
 # BioShock : La historia submarina
 
