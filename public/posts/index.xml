@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <image>
       <title>My New Hugo Site</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Nov 2024 10:59:40 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2024 10:55:58 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BioShock : La historia submarina</title>
-      <link>http://localhost:1313/posts/bioshockpost/alvaro-post2/</link>
-      <pubDate>Fri, 29 Nov 2024 10:59:40 +0100</pubDate>
-      <guid>http://localhost:1313/posts/bioshockpost/alvaro-post2/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;https://www.bing.com/images/blob?bcid=qNEFsG6iGs0HRw&#34;&gt;&lt;/p&gt;
+      <link>//localhost:1313/posts/bioshockpost/</link>
+      <pubDate>Fri, 29 Nov 2024 10:55:58 +0100</pubDate>
+      <guid>//localhost:1313/posts/bioshockpost/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Bioshock&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/bioshockpost/posts/BioshockPost/Bioshock.jpg&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;bioshock--la-historia-submarina&#34;&gt;BioShock : La historia submarina&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;BioShock&lt;/em&gt; no es solo un videojuego; es una experiencia que redefine lo que un título de acción en primera persona puede ofrecer. Lanzado en 2007 y desarrollado por &lt;strong&gt;Irrational Games&lt;/strong&gt;, este clásico atemporal combina un diseño inmersivo con una narrativa profunda y provocadora.&lt;/p&gt;
 &lt;h2 id=&#34;bienvenido-a-rapture&#34;&gt;Bienvenido a Rapture&lt;/h2&gt;
 &lt;p&gt;La historia te lleva a &lt;strong&gt;Rapture&lt;/strong&gt;, una ciudad submarina creada como un refugio para los mejores y más brillantes de la humanidad. Sin embargo, el sueño utópico se convirtió en una pesadilla cuando la ambición y los avances genéticos descontrolados llevaron al colapso de la sociedad. Como jugador, llegas a Rapture tras un accidente aéreo y descubres un mundo lleno de secretos, horrores y decisiones morales.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Blasphemous : Un juego Español</title>
-      <link>http://localhost:1313/posts/blasphemouspost/alvaro-post/</link>
+      <title>Blasphemous Un juego Español</title>
+      <link>//localhost:1313/posts/blasphemouspost/</link>
       <pubDate>Fri, 29 Nov 2024 10:55:58 +0100</pubDate>
-      <guid>http://localhost:1313/posts/blasphemouspost/alvaro-post/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;https://www.bing.com/images/blob?bcid=qCvNWabDU80HNg&#34;&gt;&lt;/p&gt;
+      <guid>//localhost:1313/posts/blasphemouspost/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Blasphemous&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/blasphemouspost/posts/BlasphemousPost/Blasphemous.jpg&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;blasphemous--un-juego-español&#34;&gt;Blasphemous : Un juego Español&lt;/h1&gt;
 &lt;p&gt;Si te atraen los videojuegos desafiantes, oscuros y llenos de simbolismo, &lt;em&gt;Blasphemous&lt;/em&gt; es una obra que no puedes ignorar. Este título, desarrollado por &lt;strong&gt;The Game Kitchen&lt;/strong&gt;, combina el estilo &lt;em&gt;Metroidvania&lt;/em&gt; con una narrativa inspirada en la cultura religiosa del sur de España.&lt;/p&gt;
 &lt;h2 id=&#34;una-historia-de-penitencia-y-sacrificio&#34;&gt;Una Historia de Penitencia y Sacrificio&lt;/h2&gt;

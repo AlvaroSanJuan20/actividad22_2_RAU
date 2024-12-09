@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/bioshockpost/alvaro-post2/</loc>
-    <lastmod>2024-11-29T10:59:40+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-29T10:59:40+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-11-29T10:59:40+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/blasphemouspost/alvaro-post/</loc>
+    <loc>//localhost:1313/posts/bioshockpost/</loc>
     <lastmod>2024-11-29T10:55:58+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>//localhost:1313/posts/blasphemouspost/</loc>
+    <lastmod>2024-11-29T10:55:58+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-11-29T10:55:58+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-11-29T10:55:58+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
